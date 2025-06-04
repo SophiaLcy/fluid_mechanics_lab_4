@@ -1,0 +1,6 @@
+[DEFAULT]
+n = 128
+c = 0.2
+tol = 1e-8
+max_iter = 2000000
+corner = 32
